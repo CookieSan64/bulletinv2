@@ -1,0 +1,18 @@
+/* PUT YOUR CUSTOM CSS OVERRIDES HERE */
+/* CSS personnalisé pour le thème d'avis de recherche des forces de l'ordre */
+.avis_fdo {
+    background-color: #8B0000; /* Fond Rouge foncé */
+    color: #FFFFFF; /* Écriture Blanc */
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 16px;
+}
+
+/* .avis_fdo .logo {
+    background-image: url('chemin/vers/gouv.png'); 
+    background-size: cover;
+    width: 64px;
+    height: 64px;
+    margin-bottom: 16px;
+}*/
